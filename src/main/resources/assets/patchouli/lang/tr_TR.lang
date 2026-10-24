@@ -8,7 +8,7 @@ item.patchouli:test_book_1.landing=Çok da eğlenceli olmayan bir başlangıç m
 item.patchouli:test_book_2.name=Test Kitabı 2
 item.patchouli:test_book_2.landing=Başlangıç metni! $(2)Renkleri$() ve $(4)böyle $(bold)biçimleri$() bile destekliyor!
 
-item.patchouli:test_completion.name=Test Gelişim Takipli Kitabı
+item.patchouli:test_completion.name=Gelişim Takipli Test Kitabı
 item.patchouli:test_completion.landing=Bu kitap, yeni girdilerin kilidini açtığınızda renk değiştiriyor!
 
 item.patchouli:intro_book.name=Patchouli
@@ -23,17 +23,17 @@ patchouli.subtitle.book_flip=Sayfa Çevrildi
 
 
 # Gui Strings
-patchouli.gui.lexicon.landing_info=(Boş yeri doldurmak için konulan bir metin. Kendi metninizi \"book.json\" dosyanızda tanımlayın!)
-patchouli.gui.lexicon.progress_meter=Çözülme İlerlemesi:
-patchouli.gui.lexicon.progress_tooltip=%d/%d Çözüldü
+patchouli.gui.lexicon.landing_info=(Yer tutucu başlangıç metni. Kendi metninizi \"book.json\" dosyanızda tanımlayın!)
+patchouli.gui.lexicon.progress_meter=Kilit Açma İlerlemesi:
+patchouli.gui.lexicon.progress_tooltip%d/%d Açıldı
 patchouli.gui.lexicon.progress_tooltip.secret1=+1 Gizli
 patchouli.gui.lexicon.progress_tooltip.secret=+%d Gizli
 patchouli.gui.lexicon.progress_tooltip.info=Daha fazlasını açmak için Gelişimleri tamamlayın!
 patchouli.gui.lexicon.categories=Kategoriler
 patchouli.gui.lexicon.chapters=Bölümler
 patchouli.gui.lexicon.editor=Kitap Düzenleyici
-patchouli.gui.lexicon.editor.mock_header=Taklitçi Başlık
-patchouli.gui.lexicon.editor.info=Bu düzenleyici Patchouli kitap girdileri içindir. Geliştirme ve çeviri için kullanılmak üzere tasarlanmıştır. Oyunculara fayda etmez.$(br2)Kullanılabilir kontrol kodları için $(l:https://vazkiimods.github.io/Patchouli/docs/patchouli-basics/text-formatting)Patchouli wiki sayfasına$() bakınız.
+patchouli.gui.lexicon.editor.mock_header=Örnek Başlık
+patchouli.gui.lexicon.editor.info=Bu düzenleyici Patchouli kitap girdileri içindir. Geliştirme ve çeviri için kullanılmak üzere tasarlanmıştır. Oyuncular için bir işe yaramaz.$(br2)Kullanılabilir kontrol kodları için $(l:https://vazkiimods.github.io/Patchouli/docs/patchouli-basics/text-formatting)Patchouli wiki sayfasına$() bakınız.
 patchouli.gui.lexicon.shift_for_recipe=Tarif için Shift-Tıkla
 patchouli.gui.lexicon.index=Girdi Dizini
 patchouli.gui.lexicon.index.info=Bu kitaptaki tüm bölümleri listeleyen bir dizin.$(br2)İstediğiniz sorguyu yazmaya başlayarak dizinde ve kategorilerde arama yapabilirsiniz. Sonrasında yardımcı bir arama çubuğu açılacaktır.
@@ -51,7 +51,7 @@ patchouli.gui.lexicon.structure_complete=Tamamlandı!
 patchouli.gui.lexicon.needs_air=(Kırmızı işaretli blokları temizle)
 patchouli.gui.lexicon.visualize_letter=V
 patchouli.gui.lexicon.seconds=%ss
-patchouli.gui.lexicon.history=Geçmişi Görüntüleme
+patchouli.gui.lexicon.history=Okuma Geçmişi
 patchouli.gui.lexicon.history.info=Ziyaret ettiğiniz son birkaç bölüm burada toplanır.$(br2)Bölümler kitabı okudukça kendiliğinden eklenip çıkarılır. Bazı bölümlerin daha uzun süre kolay erişilebilir kalmasını isterseniz yer imlerine ekleyebilirsiniz.$(br2)$(o)İpucu: Bölüm butonlarından birine shift-tıklamayı deneyin!$()
 patchouli.gui.lexicon.toast=Yeni Bölümler
 patchouli.gui.lexicon.toast.info=Yeni Bölümlerin Kilidi Açıldı
@@ -60,7 +60,7 @@ patchouli.gui.lexicon.loading_error=Yükleme hatası!
 patchouli.gui.lexicon.loading_error_hover=(Bilgi için imleci üstünde tutun)
 patchouli.gui.lexicon.loading_error_log=Daha fazlası için kayıtları kontrol edin
 patchouli.gui.lexicon.dev_edition=Yazarın
-patchouli.gui.lexicon.edition_str=%s Baskı
+patchouli.gui.lexicon.edition_str=%s Baskısı
 patchouli.gui.lexicon.added_by=%s tarafından eklendi
 patchouli.gui.lexicon.sneak=Görüntülemek için eğil
 patchouli.gui.lexicon.view=Girdiyi görüntüle
