@@ -80,7 +80,7 @@
 	"patchouli.gui.lexicon.button.back": "Geri",
 	"patchouli.gui.lexicon.button.back.info": "Ana Menüye dönmek için Shift-Tıkla",
 	"patchouli.gui.lexicon.button.resize": "Arayüzü Yeniden Boyutlandır",
-	"patchouli.gui.lexicon.button.toggle_mock_header": "Taklitçi Başlığı Aç/Kapa",
+	"patchouli.gui.lexicon.button.toggle_mock_header": "Örnek Başlığı Aç/Kapa",
 	"patchouli.gui.lexicon.button.resize.size0": "Varsayılan",
 	"patchouli.gui.lexicon.button.resize.size1": "Küçük",
 	"patchouli.gui.lexicon.button.resize.size2": "Orta",
